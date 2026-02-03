@@ -1,0 +1,11 @@
+<?php include 'adminheader.php' ?>
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+      <h1>Welcome to <span>Admin Home</span></h1>
+      <h2>We are team of talented designers making websites with Bootstrap</h2>
+
+    </div>
+  </section><!-- End Hero -->
+<?php include 'footer.php' ?>
